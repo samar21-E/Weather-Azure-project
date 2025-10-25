@@ -15,6 +15,5 @@ The report provides detailed insights for anyone interested in the technical bac
 
 ## Author
 
-**Antara Srivastava**
-Final Year B.Tech CSE, Bennett University
-📧 **Email:** antarakyw05@gmail.com
+**Samar Hassine**
+📧 **Email:** samarhassine390@gmail.com
