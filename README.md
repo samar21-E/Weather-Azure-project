@@ -1,4 +1,4 @@
-# Azure Maps Internship
+# Azure Maps Project
 
 This repository contains code files and the internship report from my Summer Mentorship(June–July 2025).
 The work focuses on **Microsoft Azure Maps**, **Google Cloud Vertex AI**, and the integration of **cloud and AI workflows**.
